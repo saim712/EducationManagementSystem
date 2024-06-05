@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814545873662",
+    "project_id": "lmsapp-4b9eb",
+    "storage_bucket": "lmsapp-4b9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814545873662:android:631e3686d50c11845613af",
+        "android_client_info": {
+          "package_name": "com.midterm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7IgnnjVjpPgxyZe-EHlFeFUmsZw_ij9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
